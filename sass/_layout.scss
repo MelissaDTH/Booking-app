@@ -19,8 +19,11 @@
 
 .sidebar {
   background-color: var(--color-grey-dark-1);
+  // grow - shrink - width
+  flex: 0 0 18%;
 }
 
 .hotel-view {
-  background-color: #fff;
+  background-color: orangered;
+  flex: 1; // the element should grow as much as it can
 }
