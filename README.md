@@ -2,9 +2,9 @@
 
 ## What this project is about
 
-:construction: *Still under construction.* :construction:
+:construction: *Still under construction.* The basics are set. :construction:
 
-Pyrami Booking is a mockup website about a all-in booking application. Visitors can book a hotel, flights and read reviews by other users. It's a project to practice flexbox with CSS and Sass preprocessor. 
+Pyramid Booking is a mockup website about an all-in booking application. Visitors can book a hotel, flights and read reviews by other users. It's a project to practice flexbox with CSS and Sass preprocessor. 
 
 
 ## Table of contents
